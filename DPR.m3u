@@ -1,0 +1,289 @@
+#EXTM3U
+#EXTINF:-1,Первый канал HD
+http://fireott.biz:2052/802476188417840/802468610601285/233797
+#EXTINF:-1,Первый канал
+http://fireott.biz:2052/802476188417840/802468610601285/233843
+#EXTINF:-1,Россия 1 HD
+https://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_4.m3u8 
+#EXTINF:-1,Россия 1
+http://radio-live-mg.rtr-vesti.ru/live/smil:r1.smil/variant.m3u8
+#EXTINF:-1,Россия 1
+https://vgtrkregion.cdnvideo.ru/vgtrk/simferopol/russia1sd/playlist_sdhigh.m3u8
+#EXTINF:-1,Россия 1 (+1)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus1/playlist_3.m3u8
+#EXTINF:-1,Россия 1 (+2)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus2/playlist_3.m3u8
+#EXTINF:-1,Россия 1 (+3)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus3/playlist_3.m3u8
+#EXTINF:-1,Россия 1 (+4)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus4/playlist_3.m3u8
+#EXTINF:-1,Россия 1 (+5)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus5/playlist_3.m3u8
+#EXTINF:-1,Россия 1 (+6)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus6/playlist_3.m3u8
+#EXTINF:-1,Россия 1 (+7)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus7/playlist_3.m3u8
+#EXTINF:-1,Россия 1 (+8)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus8/playlist_3.m3u8
+#EXTINF:-1,Россия 1 (+9)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus9/playlist_3.m3u8
+#EXTINF:-1,Россия РТР
+http://radio-live-mg.rtr-vesti.ru/live/smil:rtrp.smil/variant.m3u8
+#EXTINF:-1,Планeта РТР
+https://radio-live-mg.rtr-vesti.ru/hls/planeta_rtr_usa/playlist_3.m3u8
+#EXTINF:-1,РЕН ТВ
+http://fireott.biz:2052/802476188417840/802468610601285/233794
+#EXTINF:-1,НТВ HD
+http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1,НТВ 
+http://fireott.biz:2052/802476188417840/802468610601285/233804
+#EXTINF:-1,ТВЦ
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1,Пятый канал
+http://flu.ttk.mx:9090/5kanal/index.m3u8?token=orh6o
+#EXTINF:-1,Мир HD
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Пятница! HD
+https://bl.uma.media/live/317843/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1,ТВ3 HD
+https://bl.uma.media/live/407373/HLS/6307840_7/2/1/playlist.m3u8
+#EXTINF:-1,Звезда HD
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1,ТНТ HD
+https://bl.uma.media/live/410338/HLS/6307840_7/2/1/playlist.m3u8
+#EXTINF:-1,ТНТ4 HD
+https://bl.uma.media/live/317849/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1,КВН ТВ
+http://fireott.biz:2052/802476188417840/802468610601285/233801
+#EXTINF:-1,СТС HD
+http://pls.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Flb.wisp.cat%2Flb0%2FSTSHD%2Fvideo.m3u8&login=utrennik&key=X9ILnPx
+#EXTINF:-1,СТС
+https://hzv3.sysnet.top/video/JLTT5erjGCct-UuPiuw0cA/9/playlist.m3u8
+#EXTINF:-1,СТС Love
+http://flu.ttk.mx:9090/STS_Love/index.m3u8?token=orh6o
+#EXTINF:-1,Суббота! HD
+https://bl.uma.media/live/317845/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1,Домашний
+http://flu.ttk.mx:9090/Domashni/index.m3u8?token=orh6o
+#EXTINF:-1,Известия ТВ HD
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/index.m3u8
+#EXTINF:-1,Россия 24 HD
+http://radio-live-mg.rtr-vesti.ru/live/smil:r24.smil/variant.m3u8
+#EXTINF:-1,РБК HD
+http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+#EXTINF:-1,Мир 24 HD
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
+#EXTINF:-1,  Новороссия ТВ
+http://ott.inmart.tv:8081/19/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,  Оплот ТВ
+http://ott.inmart.tv:8081/54/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,VIP Comedy HD
+https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1,VIP Megahit HD
+https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1,VIP Premiere HD
+https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1,VIP Serial HD
+https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1,TV1000 Action HD
+https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1,TV1000 HD
+https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1,TV 1000 Русское кино
+https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1,Кино ТВ HD
+https://livetv.mylifeisgood.ml/channels/kinotvst.m3u8
+#EXTINF:-1,Еврокино
+http://fireott.biz:2052/802476188417840/802468610601285/233819
+#EXTINF:-1,Ростов-папа HD
+http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
+#EXTINF:-1,НТВ Сериал
+http://ntv-hls-orig.cdnvideo.ru/th_serial/index.m3u8
+#EXTINF:-1,НТВ Хит
+https://ntv-hls-orig.cdnvideo.ru/th_hit/index.m3u8
+#EXTINF:-1,НТВ Право
+https://ntv-hls-orig.cdnvideo.ru/th_pravo/index.m3u8
+#EXTINF:-1,НТВ Стиль
+https://ntv-hls-orig.cdnvideo.ru/th_style/index.m3u8
+#EXTINF:-1,Наше Кино
+http://fireott.biz:2052/802476188417840/802468610601285/233864
+#EXTINF:-1,Победа
+http://flu.ttk.mx:9090/Pobeda/index.m3u8?token=orh6o
+#EXTINF:-1,Дом Кино
+http://flu.ttk.mx:9090/Dom_kino/index.m3u8?token=orh6o
+#EXTINF:-1,Русский иллюзион
+http://fireott.biz:2052/802476188417840/802468610601285/233837
+#EXTINF:-1,Иллюзион +
+http://flu.ttk.mx:9090/Illuzion+/index.m3u8?token=orh6o
+#EXTINF:-1,Наше новое кино
+http://fireott.biz:2052/802476188417840/802468610601285/233825
+#EXTINF:-1,Дом кино премиум HD
+http://fireott.biz:2052/802476188417840/802468610601285/233833
+#EXTINF:-1,Русский бестселлер
+http://fireott.biz:2052/802476188417840/802468610601285/233834
+#EXTINF:-1,Русский детектив
+http://fireott.biz:2052/802476188417840/802468610601285/233835
+#EXTINF:-1,Русский роман HD
+http://fireott.biz:2052/802476188417840/802468610601285/233838
+#EXTINF:-1,Русская комедия
+http://flu.ttk.mx:9090/Komediya/index.m3u8?token=orh6o
+#EXTINF:-1,Кинопремьера HD
+http://flu.ttk.mx:9090/Kinopremiera/index.m3u8?token=orh6o
+#EXTINF:-1,Кинохит
+http://fireott.biz:2052/802476188417840/802468610601285/233822
+#EXTINF:-1,Кинохит
+https://sc.id-tv.kz/Kinohit_hd.m3u8
+#EXTINF:-1,Мужское Кино
+https://sc.id-tv.kz/Mujskoe_kino_hd.m3u8
+#EXTINF:-1,Киносерия
+http://fireott.biz:2052/802476188417840/802468610601285/233803
+#EXTINF:-1,Киносерия
+https://sc.id-tv.kz/Kinoseriya_hd.m3u8
+#EXTINF:-1,Киносвидание
+http://flu.ttk.mx:9090/Kinosvidanie/index.m3u8?token=orh6o
+#EXTINF:-1,Киносемья
+http://flu.ttk.mx:9090/Kinosemia/index.m3u8?token=orh6o
+#EXTINF:-1,Кинопоказ
+http://flu.ttk.mx:9090/kinopokaz/index.m3u8?token=orh6o
+#EXTINF:-1,Родное кино
+http://fireott.biz:2052/802476188417840/802468610601285/233861
+#EXTINF:-1,Фантастика HD
+http://hlss.goodgame.ru/hls/187241.m3u8
+#EXTINF:-1,Премиальное HD
+http://fireott.biz:2052/802476188417840/802468610601285/233863
+#EXTINF:-1,AMEDIA 1 HD
+http://fireott.biz:2052/802476188417840/802468610601285/233790
+#EXTINF:-1,AMEDIA 2 HD
+http://fireott.biz:2052/802476188417840/802468610601285/233791
+#EXTINF:-1,AMEDIA HIT HD
+http://fireott.biz:2052/802476188417840/802468610601285/233793
+#EXTINF:-1,FOX HD
+http://fireott.biz:2052/802476188417840/802468610601285/233844
+#EXTINF:-1,FOX LIFE HD
+http://fireott.biz:2052/802476188417840/802468610601285/233845
+#EXTINF:-1,HD REX 
+http://fireott.biz:2052/802476188417840/802468610601285/233836
+#EXTINF:-1, PARAMOUNT COMEDY
+http://fireott.biz:2052/802476188417840/802468610601285/233852
+#EXTINF:-1,Cinema
+http://flu.ttk.mx:9090/Cinema/index.m3u8?token=orh6o
+#EXTINF:-1,Индия ТВ
+http://fireott.biz:2052/802476188417840/802468610601285/233816
+#EXTINF:-1,TV XXI
+http://flu.ttk.mx:9090/TV21/index.m3u8?token=orh6o
+#EXTINF:-1,НСТ
+https://sc.id-tv.kz/NSTV_34_35.m3u8
+#EXTINF:-1,BackusTV
+https://stream.backustv.ru/live/btv/index.m3u8
+#EXTINF:-1,BackusTV Страшное
+https://stream.backustv.ru/live/btv2/index.m3u85/233850
+#EXTINF:-1,TLC
+http://fireott.biz:2052/802476188417840/802468610601285/233850
+#EXTINF:-1,Viasat Explore
+https://bl.uma.media/live/485546/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1,Viasat History
+https://bl.uma.media/live/485544/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1,Viasat Nature
+https://bl.uma.media/live/485545/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1,National geographic
+http://fireott.biz:2052/802476188417840/802468610601285/233870
+#EXTINF:-1,Nat geo wild HD
+http://fireott.biz:2052/802476188417840/802468610601285/233871
+#EXTINF:-1,Animal Planet HD
+https://livetv.mylifeisgood.ml/channels/animalplanethd.m3u8
+#EXTINF:-1,Discovery HD
+https://livetv.mylifeisgood.ml/channels/discovery.m3u8
+#EXTINF:-1,Investigation Discovery HD
+https://livetv.mylifeisgood.ml/channels/discoveryxtra.m3u8
+#EXTINF:-1,Глазами туриста
+https://livetv.mylifeisgood.ml/channels/glazamiturista.m3u8
+#EXTINF:-1,Охота и рыбалка
+http://flu.ttk.mx:9090/Ohota_i_rybalka/index.m3u8?token=orh6o
+#EXTINF:-1,Техно 24
+http://fireott.biz:2052/802476188417840/802468610601285/233812
+#EXTINF:-1,RТG
+http://fireott.biz:2052/802476188417840/802468610601285/233806
+#EXTINF:-1,Кулинар ТВ
+http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
+#EXTINF:-1,Europa Plus TV HD
+http://hls-europaplus.cdnvideo.ru/europaplus/smil:eurptv3.smil/playlist.m3u8
+#EXTINF:-1,ТНТ Music HD
+http://okko-media.cdnvideo.ru/live/okko/tntmusic/hls/playlist_hdhigh.m3u8
+#EXTINF:-1,Новое Радио ТВ
+http://hls-video01.cdnvideo.ru/video01/hDvideo01-0O.sdp/playlist.m3u8
+#EXTINF:-1,Radio Шансон-ТВ
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+#EXTINF:-1,RU.TV
+https://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8 
+#EXTINF:-1,Bridge TV Русский Xит HD
+http://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
+#EXTINF:-1,Bridge TV Фрэш
+http://109.197.192.121:8080/mtv/mono.m3u8
+#EXTINF:-1,Bridge TV Шлягер
+https://livetv.mylifeisgood.ml/channels/bridgetvshlyager.m3u8
+#EXTINF:-1 ,MIX M
+http://89.179.247.144/mixm.m3u8
+#EXTINF:-1 ,Первый Музыкальный HD 
+http://rtmp.one.by:2300
+#EXTINF:-1,Жар-Птица
+http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
+#EXTINF:-1 ,Музыка первого
+http://dmi3y-tv.ru/hls/CH_MUZYKA_PERVOGO.m3u8
+#EXTINF:-1 ,MUSIC BOX RUSSIA
+http://dmi3y-tv.ru/hls/CH_MUSICBOXRUSSIA.m3u8
+#EXTINF:-1 ,MUSIC BOX GOLD
+http://dmi3y-tv.ru/hls/CH_MUSICBOXGOLD.m3u8
+#EXTINF:-1,MTV RUSSIA HD
+http://fireott.biz:2052/802476188417840/802468610601285/233866
+#EXTINF:-1,RUSSIA MUSIC BOX
+http://fireott.biz:2052/802476188417840/802468610601285/233860
+#EXTINF:-1,Ля Минор
+http://fireott.biz:2052/802476188417840/802468610601285/233802
+#EXTINF:-1,Шансон ТВ
+http://fireott.biz:2052/802476188417840/802468610601285/233829
+#EXTINF:0,Матч! Футбол 1 HD
+http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:0,Матч! Футбол 2 HD
+http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:0, Матч! Футбол 3 HD
+http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:0,Матч! HD
+https://bl.uma.media/live/407384/HLS/6307840_7/2/1/playlist.m3u8
+#EXTINF:0, Матч Премьер HD
+https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8
+#EXTINF:0,Матч! Арена
+http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:0,МАТЧ! СТРАНА
+https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
+#EXTINF:0,Матч! Боец
+http://bl.uma.media/live/132838/HLS/132838_4/2/1/playlist.m3u8
+#EXTINF:0,Матч! Игра
+http://bl.uma.media/live/154036/HLS/154036_4/2/1/playlist.m3u8
+#EXTINF:0,Viasat Sport HD
+https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
+#EXTINF:0,KHL
+http://bl.uma.media/live/148307/HLS/148307_3/2/1/playlist.m3u8
+#EXTINF:0,KHL Prime
+http://bl.uma.media/live/171748/HLS/171748_4/2/1/playlist.m3u8
+#EXTINF:0,EUROSPORT 1 HD
+http://fireott.biz:2052/802476188417840/802468610601285/233875
+#EXTINF:0,EUROSPORT 2 HD
+http://fireott.biz:2052/802476188417840/802468610601285/233876
+#EXTINF:0,Конный мир HD
+https://bl.uma.media/live/400930/HLS/4614144_3/1/1/playlist.m3u8
+#EXTINF:-1,Nickelodeon
+http://fireott.biz:2052/802476188417840/802468610601285/233856
+#EXTINF:-1,Nick Jr
+https://sc.id-tv.kz/NickJr_36_37.m3u8
+#EXTINF:-1,2x2
+https://bl.uma.media/live/317805/HLS/317805_3/1/1/playlist.m3u8
+#EXTINF:-1,Мультиландия
+http://193.33.240.8:80/multimania/video.m3u8
+#EXTINF:-1,Мульт
+http://fireott.biz:2052/802476188417840/802468610601285/233823
+#EXTINF:-1,Детский мир
+http://fireott.biz:2052/802476188417840/802468610601285/233818
+#EXTINF:-1,Карусель
+http://flu.ttk.mx:9090/Karusel/index.m3u8?token=orh6o
+
+
